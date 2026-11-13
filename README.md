@@ -70,7 +70,7 @@ Zip the resulting `processed_csv/` folder as `processed_csv.zip` if you want to 
 
 ---
 
-## 2. Model training (`model1_fixed__1_.ipynb`)
+## 2. Model training (`fall_detection_training.ipynb`)
 
 **Windowing**
 
