@@ -46,7 +46,7 @@ A wearable, battery-friendly fall detector built on an **ESP32** and an **MPU605
 
 ## 1. Data preprocessing (`preprocess_sisfall.py`)
 
-**Dataset:** [SisFall](https://doi.org/10.3390/s17010198), recorded at 200 Hz with an ADXL345 accelerometer and ITG3200 gyroscope worn at the waist. Files starting with `F` are falls, files starting with `D` are activities of daily living (ADL).
+**Dataset:** [SisFall]([https://doi.org/10.3390/s17010198](https://github.com/BIng2325/SisFall/releases)), recorded at 200 Hz with an ADXL345 accelerometer and ITG3200 gyroscope worn at the waist. Files starting with `F` are falls, files starting with `D` are activities of daily living (ADL).
 
 **What the script does**
 
