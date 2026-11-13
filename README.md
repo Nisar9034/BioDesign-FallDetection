@@ -157,7 +157,7 @@ Tunable parameters:
 
 | Constant | Default | Meaning |
 |----------|---------|---------|
-| `FALL_THRESHOLD` | `0.85` | Minimum P(fall) for a window to count as positive |
+| `FALL_THRESHOLD` | `0.8` | Minimum P(fall) for a window to count as positive |
 | `CONSEC_REQUIRED` | `3` | Consecutive positive windows needed to confirm a fall (lower = faster but more false alarms) |
 | `INFER_STRIDE` | `25` | Run inference every 25 samples (0.5 s) |
 | `PRINT_SAMPLE_EVERY` | `10` | Print a debug sample every N samples (0 disables) |
