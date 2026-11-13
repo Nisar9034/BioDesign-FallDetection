@@ -4,10 +4,10 @@ A wearable, battery-friendly fall detector built on an **ESP32** and an **MPU605
 
 ## Team
 
-| Name | 
-|------|
-| Rohit Mehtre |
-| Mohammad Asad ur Rahman Nisar |
+| Name | Roll Number |
+|------|-------------|
+| Rohit Mehtre | 24AI10045 |
+| Mohammad Asad ur Rahman Nisar | 24AI10038 |
 
 ---
 
